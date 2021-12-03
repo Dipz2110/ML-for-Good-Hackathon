@@ -33,13 +33,13 @@ As the covid worries are reducing, it's not the most important factor that affac
 
 For Social Groups Dataset:
 1. Key themes
-1.1.Social Groups 1 - more time at hand,lock down,social media and online games
-1.2.Social Groups 2 - social life restrictions, lockdown,time spent on phone,social media
-1.3.Social Groups 3 - Remote working and schooling, anxiety, social life restrictions, struggles
-1.4.Social Groups 4 - technology use, time spent online, video games
+1.1. Social Groups 1 - more time at hand,lock down,social media and online games
+1.2. Social Groups 2 - social life restrictions, lockdown,time spent on phone,social media
+1.3. Social Groups 3 - Remote working and schooling, anxiety, social life restrictions, struggles
+1.4. Social Groups 4 - technology use, time spent online, video games
 2. Sentiment Analysis
-2.1.Social Groups 1 - neutral
-2.2.Social Groups 2, 3, 4 - Moderately negative
+2.1. Social Groups 1 - neutral
+2.2. Social Groups 2, 3, 4 - Moderately negative
 
 For Gaming Groups Dataset:
 1. Key themes
