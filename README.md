@@ -42,12 +42,12 @@ For Social Groups Dataset:
 2.2.Social Groups 2, 3, 4 - Moderately negative
 
 For Gaming Groups Dataset:
-1.Key themes
+1. Key themes
 1.1. Gaming Groups 1 - more time at hand,time spent online,social life
 1.2. Gaming Groups 2 - experiences,time spent online, covid worries, family life, podcast
 1.3. Gaming Groups 3 - Covid worries,more time at hand,time spent online, remembering pre-covid times, remote schooling
 1.4. Gaming Groups 4 - Frustration, social life, Online games
-2.Sentiment Analysis
+2. Sentiment Analysis
 2.1. Gaming Groups 1 - very little negative
 2.2. Gaming Groups 2 - little negative
 2.3. Gaming Groups 3, 4 - Moderately negative
