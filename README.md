@@ -17,18 +17,19 @@ Key Methodology
 - Hypothesis testing (Kruskal walis)
 
 Key Observations
+
 For ProlificAcademy Adult Dataset:
-1.Downward trend in Covid worry and emotions/mental stress from April 2020 to April 2021
-2.Covid worry and emotions/mental stress are positively correlated
-3.For Country=186, emotions/mental stress was overall less than in Country=187
-4.For Country=186, covid worries was overall more than in Country=187
-5.Top 5 factors that affected emotions and mental states:
--In April 2020: Covid worries, 3 months prior emotion state, Life Changes, Mental Health and current Media use
--In May 2020: Life Changes, Covid worries, in person conversation impact, current Media use and positive Changes
--In November 2020: Life Changes, Covid worries, current Media use,in person conversation impact use and time spent outside
--In April 2021, Life Changes, Covid worries, rooms in house and internet addiction
+1. Downward trend in Covid worry and emotions/mental stress from April 2020 to April 2021
+2. Covid worry and emotions/mental stress are positively correlated
+3. For Country=186, emotions/mental stress was overall less than in Country=187
+4. For Country=186, covid worries was overall more than in Country=187
+5. Top 5 factors that affected emotions and mental states:
+- In April 2020: Covid worries, 3 months prior emotion state, Life Changes, Mental Health and current Media use
+- In May 2020: Life Changes, Covid worries, in person conversation impact, current Media use and positive Changes
+- In November 2020: Life Changes, Covid worries, current Media use,in person conversation impact use and time spent outside
+- In April 2021, Life Changes, Covid worries, rooms in house and internet addiction
 As the covid worries are reducing, it's not the most important factor that affactes mental state
-6.Adults who are not parent seem to be more stressed in April 2021
+6. Adults who are not parent seem to be more stressed in April 2021
 
 For Social Groups Dataset:
 1. Key themes
